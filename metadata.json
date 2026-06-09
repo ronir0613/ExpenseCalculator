@@ -1,0 +1,6 @@
+{
+  "name": "SpendVault",
+  "description": "Secure offline expense calculator with KeyStore GCM encryption, custom dynamic charts, manual adjustments, and smart pattern phrase auto-categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
